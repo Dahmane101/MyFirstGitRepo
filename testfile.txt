@@ -1,0 +1,1 @@
+This is a test of the GIT DVCS. I am just writing a few lines.
